@@ -6661,7 +6661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ef0a9a35be0a8649ab1a1c71b3ae981, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   prefab: {fileID: 919132149155446097, guid: f7d0cac8c98fd0e4e99536ceaf33a48c, type: 3}
 --- !u!114 &1571486784
 MonoBehaviour:
@@ -6695,9 +6694,6 @@ MonoBehaviour:
   prefabsToSpawn:
   - {fileID: 4977170536166672158, guid: 998b3d0931779b64e91cf1e2838e7cc2, type: 3}
   - {fileID: 4977170536166672158, guid: 1956036c9a28d3643b7227179d4109f1, type: 3}
-=======
-  prefab: {fileID: 1914356541423637715, guid: ad301d51da34a5f4e8f81c4fe637fc98, type: 3}
->>>>>>> d6507d2f92a3512f74be840bbc9b6447e102b969
 --- !u!1 &1756045394
 GameObject:
   m_ObjectHideFlags: 0
@@ -9157,9 +9153,5 @@ SceneRoots:
   - {fileID: 1323550134}
   - {fileID: 2099970469}
   - {fileID: 331264285}
-<<<<<<< HEAD
   - {fileID: 235801373}
   - {fileID: 7731287850706843874}
-=======
-  - {fileID: 1810625840}
->>>>>>> d6507d2f92a3512f74be840bbc9b6447e102b969
